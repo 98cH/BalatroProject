@@ -2,7 +2,7 @@
 {
     public enum Suit
     {
-        Batat,
+        Batata,
         Khizo,
         Hearts,
         Diamonds,
